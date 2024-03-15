@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roguegame", "roguegame\roguegame.csproj", "{F9148C7C-0BCF-475B-B6C5-7ADCB8AED79C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9148C7C-0BCF-475B-B6C5-7ADCB8AED79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9148C7C-0BCF-475B-B6C5-7ADCB8AED79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9148C7C-0BCF-475B-B6C5-7ADCB8AED79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9148C7C-0BCF-475B-B6C5-7ADCB8AED79C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C162A1AF-5F18-414C-9FEC-7B4C30771470}
+	EndGlobalSection
+EndGlobal
