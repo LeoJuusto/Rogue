@@ -17,6 +17,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\rogue reposituoru\RayGuiCreator\RayGuiCreator\RayGuiCreator.csproj" />
+    <ProjectReference Include="..\..\rogue reposituoru\TurboMapReader\TurboMapReader.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="aloitusvalikko.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -30,6 +35,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="taukovalikko.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="tiledmap.tmj">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="tile_0002.png">

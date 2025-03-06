@@ -42,7 +42,7 @@ namespace roguegame
     2, 1, 1, 1, 1, 1, 1, 2,
     2, 2, 2, 2, 2, 2, 2, 2 };
             Test.mapWidth = mapWidth;
-            Test.mapTiles = mapTiles;
+           
             return Test;
 
         }
